@@ -1,46 +1,64 @@
 [
     {
         "url": "https://github.com/mahmud-sajib/ecommerce-store-product-data/blob/master/t-shirt1.jpg?raw=true",
+        "title": "Hawaii Tee",
+        "price": "29.99",
         "id": "1",
         "isFavorite": false
     },
     {
         "url": "https://github.com/mahmud-sajib/ecommerce-store-product-data/blob/master/t-shirt2.jpg?raw=true",
+        "title": "St. Martins Tee",
+        "price": "39.99",
         "id": "2",
         "isFavorite": false
     },
     {
         "url": "https://github.com/mahmud-sajib/ecommerce-store-product-data/blob/master/t-shirt3.jpg?raw=true",
+        "title": "Bora Bora Tee",
+        "price": "29.99",
         "id": "3",
         "isFavorite": false
     },
     {
         "url": "https://github.com/mahmud-sajib/ecommerce-store-product-data/blob/master/t-shirt4.jpg?raw=true",
+        "title": "Palawan Tee",
+        "price": "39.99",
         "id": "4",
         "isFavorite": false
     },
     {
         "url": "https://github.com/mahmud-sajib/ecommerce-store-product-data/blob/master/t-shirt5.jpg?raw=true",
+        "title": "Santorini Tee",
+        "price": "29.99",
         "id": "5",
         "isFavorite": false
     },
     {
         "url": "https://github.com/mahmud-sajib/ecommerce-store-product-data/blob/master/t-shirt6.jpg?raw=true",
+        "title": "Bali Tee",
+        "price": "39.99",
         "id": "6",
         "isFavorite": false
     },
     {
         "url": "https://github.com/mahmud-sajib/ecommerce-store-product-data/blob/master/t-shirt7.jpg?raw=true",
+        "title": "Fizi Tee",
+        "price": "29.99",
         "id": "7",
         "isFavorite": false
     },
     {
         "url": "https://github.com/mahmud-sajib/ecommerce-store-product-data/blob/master/t-shirt8.jpg?raw=true",
+        "title": "St. Lucia Tee",
+        "price": "39.99",
         "id": "8",
         "isFavorite": false
     },
     {
         "url": "https://github.com/mahmud-sajib/ecommerce-store-product-data/blob/master/t-shirt9.jpg?raw=true",
+        "title": "Bahamas Tee",
+        "price": "29.99",
         "id": "9",
         "isFavorite": false
     }
