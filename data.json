@@ -2,6 +2,7 @@
     {
         "url": "https://github.com/mahmud-sajib/ecommerce-store-product-data/blob/master/t-shirt1.jpg?raw=true",
         "title": "Hawaii Tee",
+        "description": "The Hawaii T-Shirt is made with midweight cotton fabric for soft comfort that lasts. It has a refreshing vibe that let you celebrate the day you live.",
         "price": "29.99",
         "id": "1",
         "isFavorite": false
@@ -9,6 +10,7 @@
     {
         "url": "https://github.com/mahmud-sajib/ecommerce-store-product-data/blob/master/t-shirt2.jpg?raw=true",
         "title": "St. Martins Tee",
+        "description": "The St. Martins T-Shirt is made with midweight cotton fabric for soft comfort that lasts. It has a refreshing vibe that let you celebrate the day you live.",
         "price": "39.99",
         "id": "2",
         "isFavorite": false
@@ -16,6 +18,7 @@
     {
         "url": "https://github.com/mahmud-sajib/ecommerce-store-product-data/blob/master/t-shirt3.jpg?raw=true",
         "title": "Bora Bora Tee",
+        "description": "The Bora Bora T-Shirt is made with midweight cotton fabric for soft comfort that lasts. It has a refreshing vibe that let you celebrate the day you live.",
         "price": "29.99",
         "id": "3",
         "isFavorite": false
@@ -23,6 +26,7 @@
     {
         "url": "https://github.com/mahmud-sajib/ecommerce-store-product-data/blob/master/t-shirt4.jpg?raw=true",
         "title": "Palawan Tee",
+        "description": "The Palawan T-Shirt is made with midweight cotton fabric for soft comfort that lasts. It has a refreshing vibe that let you celebrate the day you live.",
         "price": "39.99",
         "id": "4",
         "isFavorite": false
@@ -30,6 +34,7 @@
     {
         "url": "https://github.com/mahmud-sajib/ecommerce-store-product-data/blob/master/t-shirt5.jpg?raw=true",
         "title": "Santorini Tee",
+        "description": "The Santorini T-Shirt is made with midweight cotton fabric for soft comfort that lasts. It has a refreshing vibe that let you celebrate the day you live.",
         "price": "29.99",
         "id": "5",
         "isFavorite": false
@@ -37,6 +42,7 @@
     {
         "url": "https://github.com/mahmud-sajib/ecommerce-store-product-data/blob/master/t-shirt6.jpg?raw=true",
         "title": "Bali Tee",
+        "description": "The Bali T-Shirt is made with midweight cotton fabric for soft comfort that lasts. It has a refreshing vibe that let you celebrate the day you live.",
         "price": "39.99",
         "id": "6",
         "isFavorite": false
@@ -44,6 +50,7 @@
     {
         "url": "https://github.com/mahmud-sajib/ecommerce-store-product-data/blob/master/t-shirt7.jpg?raw=true",
         "title": "Fizi Tee",
+        "description": "The Fizi T-Shirt is made with midweight cotton fabric for soft comfort that lasts. It has a refreshing vibe that let you celebrate the day you live.",
         "price": "29.99",
         "id": "7",
         "isFavorite": false
@@ -51,6 +58,7 @@
     {
         "url": "https://github.com/mahmud-sajib/ecommerce-store-product-data/blob/master/t-shirt8.jpg?raw=true",
         "title": "St. Lucia Tee",
+        "description": "The St. Lucia T-Shirt is made with midweight cotton fabric for soft comfort that lasts. It has a refreshing vibe that let you celebrate the day you live.",
         "price": "39.99",
         "id": "8",
         "isFavorite": false
@@ -58,6 +66,7 @@
     {
         "url": "https://github.com/mahmud-sajib/ecommerce-store-product-data/blob/master/t-shirt9.jpg?raw=true",
         "title": "Bahamas Tee",
+        "description": "The Bahamas T-Shirt is made with midweight cotton fabric for soft comfort that lasts. It has a refreshing vibe that let you celebrate the day you live.",
         "price": "29.99",
         "id": "9",
         "isFavorite": false
